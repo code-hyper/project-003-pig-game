@@ -15,13 +15,13 @@ The first player to score 100 or more points wins.
 
 ## Flowchat
 
-![image](./[pig-game-flowchart].png)
+![Flow Chart](./pig-game-flowchart.png)
 
 ## Deployment
 
 Demo: https://code-hyper.github.io/project-003-pig-game/
 
-![image](./assets/[pig-game].png)
+![Pig Game Screenshot](./assets/pig-game.png)
 
 ## Built With
 
