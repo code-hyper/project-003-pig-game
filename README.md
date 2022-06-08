@@ -13,6 +13,10 @@ Each turn, a player repeatedly rolls a die until either a 1 is rolled or the pla
 
 The first player to score 100 or more points wins.
 
+## Flowchat
+
+![image](./[pig-game-flowchart].png)
+
 ## Deployment
 
 Demo: https://code-hyper.github.io/project-003-pig-game/
